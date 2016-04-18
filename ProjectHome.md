@@ -1,0 +1,1 @@
+The purpose of this project is to create an open mobile payment gateway with the growth of mobile payments systems there is a need to interconnect this payment systems and a need to extend  this payments systems with online and desktop applications
